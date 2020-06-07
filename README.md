@@ -32,4 +32,4 @@ More information can be found in the `Documents` directory.
 
 ### How to run
 * Install Unreal Engine
-* Open `kitchen_sim.uproject` with Unreal Engine
+* Open `kitchen_sim.uproject` with Unreal Engine with the Kitchen Assetts pack installed
