@@ -1,4 +1,4 @@
-# HTNE-kitchen-sim
+# Learn to Chef
 
 Created by Erik Marsh, Daniel Enriquez, and Colin Rogers.
 
